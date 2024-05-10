@@ -3,9 +3,9 @@ This project studies and visualizes trend in post-secondary education enrollemen
 
 ## Data sets
 ### University Enrollment: Gender, Program, and Campus sheets 
-**Source:*** Government of Ontario 
+**Source:** Government of Ontario 
 **Link to Source:** [University Enrollment](https://data.ontario.ca/dataset/university-enrolment)
-**Link to Dataset:** [University Enrollment Dataset]([https://data.ontario.ca/dataset/university-enrolment](https://data.ontario.ca/dataset/45ccffe6-4ef7-4e21-8206-ef430faf6092/resource/59b71ef5-e837-4dc7-a7f4-e4921815871c/download/open_data_-_university_enrolment_2021-22.xlsx)
+**Link to Dataset:** [University Enrollment Dataset](https://data.ontario.ca/dataset/45ccffe6-4ef7-4e21-8206-ef430faf6092/resource/59b71ef5-e837-4dc7-a7f4-e4921815871c/download/open_data_-_university_enrolment_2021-22.xlsx)
 
 ### 2020 Labour Force Estimates by Education 
 **Source:** Government of Ontario 
